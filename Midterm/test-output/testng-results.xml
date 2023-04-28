@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-28T19:12:56 SGT" name="Default suite" finished-at="2023-04-28T19:13:25 SGT" duration-ms="28478">
+    <groups>
+    </groups>
+    <test started-at="2023-04-28T19:12:56 SGT" name="Default test" finished-at="2023-04-28T19:13:25 SGT" duration-ms="28478">
+      <class name="Test.TestScenarios_Edureka">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:12:55 SGT" name="beforeclass" finished-at="2023-04-28T19:12:56 SGT" duration-ms="1311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="befortest()[pri:0, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:12:56 SGT" name="befortest" finished-at="2023-04-28T19:12:57 SGT" duration-ms="559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befortest -->
+        <test-method signature="searchGoogle()[pri:0, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:12:57 SGT" name="searchGoogle" finished-at="2023-04-28T19:13:03 SGT" duration-ms="6215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method signature="validateHompage()[pri:1, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:13:03 SGT" name="validateHompage" finished-at="2023-04-28T19:13:03 SGT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHompage -->
+        <test-method signature="loginEdureka()[pri:2, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:13:03 SGT" name="loginEdureka" finished-at="2023-04-28T19:13:04 SGT" duration-ms="1341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginEdureka -->
+        <test-method signature="validateProfile()[pri:3, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:13:04 SGT" name="validateProfile" finished-at="2023-04-28T19:13:15 SGT" duration-ms="10875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateProfile -->
+        <test-method signature="topicsOfInterest()[pri:4, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:13:15 SGT" name="topicsOfInterest" finished-at="2023-04-28T19:13:25 SGT" duration-ms="9457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- topicsOfInterest -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:13:25 SGT" name="aftertest" finished-at="2023-04-28T19:13:25 SGT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method is-config="true" signature="afterclass()[pri:0, instance:Test.TestScenarios_Edureka@795509d9]" started-at="2023-04-28T19:13:25 SGT" name="afterclass" finished-at="2023-04-28T19:13:25 SGT" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+      </class> <!-- Test.TestScenarios_Edureka -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
